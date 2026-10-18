@@ -1,0 +1,15 @@
+{
+	"Clicker:Click_Button": "点击模式",
+	"Clicker:Long_Button": "长按模式",
+	"Clicker:Click_Click_Settings_Text": "点击设置",
+	"Clicker:Click_Click_Speed_Text": "点击速度（次/秒）",
+	"Clicker:Click_Click_Number_Text": "点击次数",
+	"Clicker:Click_Left_Click_Button": "左键连点",
+	"Clicker:Click_Right_Click_Button": "右键连点",
+	"Clicker:Long_Long_Settings_Text": "长按设置",
+	"Clicker:Long_Long_continue_Text": "长按持续秒数",
+	"Clicker:Long_Long_Number_Text":"长按次数",
+	"Clicker:Long_Left_Long_Button": "左键长按",
+	"Clicker:Long_Right_Long_Button": "右键长按",
+	"Clicker:Every_Output_Wcc_Button": "导出Wcc配置文件"
+}
